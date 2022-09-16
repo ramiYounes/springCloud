@@ -1,6 +1,6 @@
 server:
   port: 0
-  
+test: 777
 spring:
   cloud:
     consul:
